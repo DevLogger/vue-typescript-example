@@ -1,0 +1,24 @@
+{
+  "name": "vuejs-example-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "ts-loader": "^2.2.1",
+    "typescript": "^2.5.2",
+    "uglify-js": "^3.0.22",
+    "vue": "^2.5.0",
+    "vue-loader": "^13.0.0",
+    "vue-template-compiler": "^2.5.0",
+    "webpack": "^3.0.0"
+  },
+  "dependencies": {
+    "vue-class-component": "^6.1.0"
+  }
+}
